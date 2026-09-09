@@ -1,4 +1,4 @@
-"""Entry point for the packaged executable."""
+"""entry point for the packaged executable."""
 
 import sys
 
